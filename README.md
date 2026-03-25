@@ -1,4 +1,4 @@
-# Sentiment Analyzer Project 🧠
+# Review Sentiment Analyzer Project 🧠
 
 ## About This Project
 
