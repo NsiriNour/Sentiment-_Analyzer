@@ -27,6 +27,8 @@ This project is built using the following tools:
 * **Matplotlib:** For generating the sentiment pie chart
 
 ---
+## Result:
+<img width="1878" height="893" alt="image" src="https://github.com/user-attachments/assets/56012bd0-ffc5-4865-8e59-dd6b5392d20c" />
 
 ## How to Use
 
